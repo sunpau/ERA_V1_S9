@@ -5,7 +5,7 @@ from utils import GetCorrectPredCount
 from tqdm.notebook import tqdm
 
     
-#-----------------------S8 Assignment----------------
+#-----------------------S9 Assignment----------------
 class Block(nn.Module):
     """
     This class defines a convolution layer followed by
